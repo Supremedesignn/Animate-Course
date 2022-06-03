@@ -11,6 +11,8 @@
 		632FA15B284982CC00B92FB3 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 632FA158284982CC00B92FB3 /* Inter-SemiBold.ttf */; };
 		632FA15C284982CC00B92FB3 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 632FA159284982CC00B92FB3 /* Poppins-Bold.ttf */; };
 		632FA15F284988C100B92FB3 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA15E284988C100B92FB3 /* CustomView.swift */; };
+		632FA16128498F5400B92FB3 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA16028498F5400B92FB3 /* SignInView.swift */; };
+		632FA1632849976900B92FB3 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA1622849976900B92FB3 /* CustomTextField.swift */; };
 		63C05498284539020010E936 /* Animate_CourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C05497284539020010E936 /* Animate_CourseApp.swift */; };
 		63C0549A284539020010E936 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C05499284539020010E936 /* ContentView.swift */; };
 		63C0549C284539050010E936 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63C0549B284539050010E936 /* Assets.xcassets */; };
@@ -32,6 +34,8 @@
 		632FA159284982CC00B92FB3 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		632FA15D2849830300B92FB3 /* Animate-Course-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Animate-Course-Info.plist"; sourceTree = SOURCE_ROOT; };
 		632FA15E284988C100B92FB3 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		632FA16028498F5400B92FB3 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		632FA1622849976900B92FB3 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		63C05494284539020010E936 /* Animate Course.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animate Course.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C05497284539020010E936 /* Animate_CourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_CourseApp.swift; sourceTree = "<group>"; };
 		63C05499284539020010E936 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +96,8 @@
 				63C05497284539020010E936 /* Animate_CourseApp.swift */,
 				63C05499284539020010E936 /* ContentView.swift */,
 				63C054B728453B000010E936 /* OnboardingView.swift */,
+				632FA16028498F5400B92FB3 /* SignInView.swift */,
+				632FA1622849976900B92FB3 /* CustomTextField.swift */,
 				632FA15E284988C100B92FB3 /* CustomView.swift */,
 				63C0549B284539050010E936 /* Assets.xcassets */,
 				632FA156284982CC00B92FB3 /* Fonts */,
@@ -211,8 +217,10 @@
 			files = (
 				63C054B828453B000010E936 /* OnboardingView.swift in Sources */,
 				632FA15F284988C100B92FB3 /* CustomView.swift in Sources */,
+				632FA1632849976900B92FB3 /* CustomTextField.swift in Sources */,
 				63C0549A284539020010E936 /* ContentView.swift in Sources */,
 				63C05498284539020010E936 /* Animate_CourseApp.swift in Sources */,
+				632FA16128498F5400B92FB3 /* SignInView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
