@@ -13,6 +13,7 @@
 		632FA15F284988C100B92FB3 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA15E284988C100B92FB3 /* CustomView.swift */; };
 		632FA16128498F5400B92FB3 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA16028498F5400B92FB3 /* SignInView.swift */; };
 		632FA1632849976900B92FB3 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FA1622849976900B92FB3 /* CustomTextField.swift */; };
+		639B6803284AAF0500CB331F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639B6802284AAF0500CB331F /* Extensions.swift */; };
 		63C05498284539020010E936 /* Animate_CourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C05497284539020010E936 /* Animate_CourseApp.swift */; };
 		63C0549A284539020010E936 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C05499284539020010E936 /* ContentView.swift */; };
 		63C0549C284539050010E936 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63C0549B284539050010E936 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 		632FA15E284988C100B92FB3 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 		632FA16028498F5400B92FB3 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		632FA1622849976900B92FB3 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		639B6802284AAF0500CB331F /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		63C05494284539020010E936 /* Animate Course.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animate Course.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C05497284539020010E936 /* Animate_CourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate_CourseApp.swift; sourceTree = "<group>"; };
 		63C05499284539020010E936 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				63C05499284539020010E936 /* ContentView.swift */,
 				63C054B728453B000010E936 /* OnboardingView.swift */,
 				632FA16028498F5400B92FB3 /* SignInView.swift */,
+				639B6802284AAF0500CB331F /* Extensions.swift */,
 				632FA1622849976900B92FB3 /* CustomTextField.swift */,
 				632FA15E284988C100B92FB3 /* CustomView.swift */,
 				63C0549B284539050010E936 /* Assets.xcassets */,
@@ -221,6 +224,7 @@
 				63C0549A284539020010E936 /* ContentView.swift in Sources */,
 				63C05498284539020010E936 /* Animate_CourseApp.swift in Sources */,
 				632FA16128498F5400B92FB3 /* SignInView.swift in Sources */,
+				639B6803284AAF0500CB331F /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
