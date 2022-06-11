@@ -75,6 +75,25 @@
 			path = Fonts;
 			sourceTree = "<group>";
 		};
+		63AF1E92285446FF006A984C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				63C054B728453B000010E936 /* OnboardingView.swift */,
+				632FA16028498F5400B92FB3 /* SignInView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		63AF1E932854471B006A984C /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				639B6802284AAF0500CB331F /* Extensions.swift */,
+				632FA1622849976900B92FB3 /* CustomTextField.swift */,
+				632FA15E284988C100B92FB3 /* CustomView.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
 		63C0548B284539020010E936 = {
 			isa = PBXGroup;
 			children = (
@@ -97,11 +116,8 @@
 				632FA15D2849830300B92FB3 /* Animate-Course-Info.plist */,
 				63C05497284539020010E936 /* Animate_CourseApp.swift */,
 				63C05499284539020010E936 /* ContentView.swift */,
-				63C054B728453B000010E936 /* OnboardingView.swift */,
-				632FA16028498F5400B92FB3 /* SignInView.swift */,
-				639B6802284AAF0500CB331F /* Extensions.swift */,
-				632FA1622849976900B92FB3 /* CustomTextField.swift */,
-				632FA15E284988C100B92FB3 /* CustomView.swift */,
+				63AF1E92285446FF006A984C /* Views */,
+				63AF1E932854471B006A984C /* Styles */,
 				63C0549B284539050010E936 /* Assets.xcassets */,
 				632FA156284982CC00B92FB3 /* Fonts */,
 				63C054A5284539D80010E936 /* RiveAssets */,
